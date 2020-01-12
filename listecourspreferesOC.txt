@@ -1,0 +1,5 @@
+1- Gerez_votre_code_avec_Git_et_GitHub
+2- OC_ initiez vous au Machine Learning
+3- OC_demarrez_avec_python
+4- OC_Apprenez à programmer en Python
+5- OC_Analysez vos données textuelles
